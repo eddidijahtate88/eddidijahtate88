@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Eddie. Looking forward to it!!
 <!--
 **eddidijahtate88/eddidijahtate88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
